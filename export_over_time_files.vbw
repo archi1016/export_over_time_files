@@ -1,0 +1,11 @@
+MainForm = 88, 116, 907, 559, , 22, 29, 875, 639, C
+api = 0, 0, 0, 0, C
+api_file = 66, 87, 885, 530, C
+api_reg = 0, 0, 0, 0, C
+api_shell32 = 0, 0, 0, 0, C
+api_user32 = 0, 0, 0, 0, C
+api_window = 0, 0, 0, 0, C
+define_type = 0, 0, 0, 0, C
+define_wm = 0, 0, 0, 0, C
+func_base = 0, 0, 819, 443, C
+func = 44, 58, 863, 501, C
